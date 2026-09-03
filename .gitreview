@@ -1,0 +1,5 @@
+[gerrit]
+host=review.calyxos.org
+port=29418
+project=CalyxOS/platform_external_wpa_supplicant_8
+defaultbranch=android17
